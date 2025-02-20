@@ -1,6 +1,8 @@
 # JPMC_Quantitative-Analysis_Project
 This repository contains a collection of Jupyter notebooks demonstrating various quantitative analyses related to financial and commodity markets. Each notebook is self-contained and includes detailed comments explaining the methodology and purpose of the analysis.
+
 Background
+
 These projects were completed as part of the JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage in May 2024. Key highlights include:
 
 Completing a simulation focused on quantitative research methods.
